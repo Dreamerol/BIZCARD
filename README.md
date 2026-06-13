@@ -28,19 +28,18 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
 <div align="center">
 
-<a href="#" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
-    alt="Data & ML Banner"
-    width="100%"
-  />
-</a>
-
-
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
+  alt="Vizitka"
+  width="100%"
+/>
 
 </div>
+
+
 
 
 
