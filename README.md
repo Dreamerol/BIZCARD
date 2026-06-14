@@ -8,6 +8,30 @@
 
 <h1 align="center">
      𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+</h1>
+
+<h2 align="center">
+Data & Software Engineer • Applied ML ∫ data → systems ✨
+</h2>
+
+<p align="center">
+<b>FMI • Sofia University “St. Kliment Ohridski”</b>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<h1 align="center">
+     𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
   </a>
 </h1>
 
@@ -506,5 +530,5 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br>
+<br><br><br><br><br>
 
