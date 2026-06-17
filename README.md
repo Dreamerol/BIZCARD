@@ -254,7 +254,6 @@ width="320" height="220">
 </a>
 <br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
 </td>
-
 </tr>
 
 </table>
@@ -302,19 +301,22 @@ width="320" height="220">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
 <b>𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</b>
 </a>
+     
 </td>
 
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCE">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
 <b>𝗣𝗬𝗧𝗛𝗢𝗡</b>
 </a>
+     
 </td>
+
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
 <b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘</b>
-</a>
+</a>     
 </td>
 </tr>
 
