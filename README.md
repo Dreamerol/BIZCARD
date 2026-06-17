@@ -228,16 +228,13 @@ width="320" height="220">
 
 
 
-
-
-
 <table align="center">
 
 <tr>
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-style="display:block;width:320px;height:220px;object-fit:cover;">
+width="320" height="220">
 </a>
 <br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
 </td>
@@ -245,7 +242,7 @@ style="display:block;width:320px;height:220px;object-fit:cover;">
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-style="display:block;width:320px;height:220px;object-fit:cover;">
+width="320" height="220">
 </a>
 <br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
 </td>
@@ -253,7 +250,7 @@ style="display:block;width:320px;height:220px;object-fit:cover;">
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-style="display:block;width:320px;height:220px;object-fit:cover;">
+width="320" height="220">
 </a>
 <br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
 </td>
@@ -261,6 +258,11 @@ style="display:block;width:320px;height:220px;object-fit:cover;">
 
 </table>
 
+
+
+
+<br>
+<br>
 
 
 
@@ -292,22 +294,18 @@ style="display:block;width:320px;height:220px;object-fit:cover;">
 
 
 
-
-
 <tr>
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
 <b>𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</b>
-</a>
-     
+</a>     
 </td>
 
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
 <b>𝗣𝗬𝗧𝗛𝗢𝗡</b>
-</a>
-     
+</a>     
 </td>
 
 
@@ -317,7 +315,6 @@ style="display:block;width:320px;height:220px;object-fit:cover;">
 </a>     
 </td>
 </tr>
-
 
 
 </table>
