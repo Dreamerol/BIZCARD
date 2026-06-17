@@ -81,8 +81,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 
-## ∫ data → systems → insights ✨
-
 </div>
 
 
