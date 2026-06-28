@@ -2,6 +2,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
@@ -11,9 +22,14 @@
 </div>
 
 
-  <h2 align="center">
- Backend Engineering • Data Engineering • Applied Machine Learning
-  </h2>
+<h2 align="center">
+  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
+   Backend Engineering • Data Engineering • Applied Machine Learning
+  </a>
+</h2>
+
+</div>
+
 
 
 
